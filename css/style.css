@@ -1,0 +1,22 @@
+body{background-color: aquamarine;
+    color: navy;
+    } 
+    
+    header{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    border: 2px solid black;
+    text-align: center;} 
+    
+    footer{border: 2px solid black;}
+    
+    a{ color: black;}
+    
+    a.MyInstagram{color: #000;}
+    
+    a.DogInstagram{color: blueviolet;}
+    
+   .info{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;} 
+
+    text{margin: 200px;}
